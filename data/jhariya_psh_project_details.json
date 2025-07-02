@@ -1,0 +1,181 @@
+📄  Extracted from page
+: ```json
+{
+  "file_name": "jhariya_psh_project_details.json",
+  "project_name": "Jhariya 1620 MW Pumped Storage Hydro Project",
+  "project_type": "Pumped Storage Hydro (PSH)",
+  "capacity_mw": 1620,
+  "location": "Sonbhadra District, Uttar Pradesh, India",
+  "project_status_overview": "Investment Opportunity",
+  "key_highlights": [
+    "India's largest pumped storage project",
+    "1620 MW closed-loop pumped hydro storage",
+    "~17% projected equity IRR",
+    "₹7,375 Cr total investment",
+    "7.4-year payback period",
+    "Backed by government incentives",
+    "Strategic location in India's energy corridor"
+  ],
+  "investment_opportunity_summary": {
+    "government_backed": "30% capital subsidy, infrastructure grants, and policy support under IIEPP 2022",
+    "esg_compliant": "Closed-loop design with minimal environmental impact and carbon credit eligibility",
+    "grid_stability": "12 hours energy storage enabling renewable integration and peak demand management"
+  },
+  "project_at_a_glance": {
+    "type": "1620 MW closed-loop pumped hydro storage",
+    "location": "Sonbhadra, Uttar Pradesh",
+    "total_investment": {
+      "amount_cr": 7375,
+      "currency": "INR",
+      "debt_to_equity_structure": "70:30"
+    },
+    "projected_equity_irr": " ~17%",
+    "payback_period_years": 7.4,
+    "operational_life_years": "25+",
+    "strategic_location_benefits": [
+      "Excellent grid connectivity",
+      "Proximity to industrial demand"
+    ]
+  },
+  "investment_thesis": "This project combines India's renewable energy transition needs with proven pumped storage technology, extensive government support, and attractive financial returns, making it an ideal infrastructure investment for institutional investors seeking stable, long-term returns with ESG compliance.",
+  "financial_summary": {
+    "total_project_cost_cr": 7375,
+    "projected_equity_irr": "17.0%",
+    "lcos_per_kwh": "₹2.72",
+    "payback_period_years": 7.4,
+    "storage_capacity_mwh": 19440,
+    "project_life_years": "25+",
+    "capital_subsidy_available_percent": 30,
+    "government_grant_cr": "~₹2,212"
+  },
+  "how_pumped_storage_works": {
+    "description": "Pumped storage hydro acts as a massive battery for the grid, storing energy by pumping water uphill during low demand and generating power by releasing water downhill during peak demand.",
+    "energy_storage_pumping_mode": "Uses surplus power to pump water from lower to upper reservoir, storing energy as gravitational potential.",
+    "power_generation_turbine_mode": "Water flows from upper reservoir through turbines to generate electricity during peak demand, providing immediate grid response.",
+    "grid_services": "Provides critical grid services including frequency regulation, voltage support, and spinning reserves, essential for integrating variable renewable energy sources."
+  },
+  "technical_specifications": {
+    "installed_capacity_mw": 1620,
+    "storage_duration_hours": 12,
+    "gross_head_meters": 320,
+    "energy_storage_mwh": 19440,
+    "response_time_seconds": "<60",
+    "location": "Sonbhadra, UP",
+    "technology_advantages": {
+      "turbines": "Variable-Speed Turbines (advanced pump-turbine units enabling flexible operation and grid regulation)",
+      "response": "Fast Response Time (Under 60 seconds from standby to full generation for grid stability)"
+    }
+  },
+  "strategic_market_context": {
+    "india_renewable_energy_challenge": {
+      "renewable_target_2030_gw": 500,
+      "storage_requirement_gw": 47,
+      "current_psh_capacity_gw": 4.8,
+      "gap_description": "India needs 10x more pumped storage capacity to support renewable integration and grid stability."
+    },
+    "sonbhadra_location_advantages": [
+      "Grid Connectivity: Direct access to 400kV transmission infrastructure connecting Northern and Eastern grids",
+      "Industrial Demand: Proximity to major industrial centers and coal-based thermal plants requiring grid balancing",
+      "Ideal Topography: Natural elevation difference and suitable geology for efficient pumped storage operations",
+      "Water Availability: Adequate water resources for closed-loop operation without impacting natural water bodies"
+    ]
+  },
+  "financial_highlights": {
+    "projected_equity_irr": "~17%",
+    "lcos_per_kwh": "₹2.72",
+    "payback_period_years": 7.4,
+    "project_life_years": "25+"
+  },
+  "interactive_financial_dashboard_data": {
+    "overview_scenario_metrics": {
+      "equity_irr": "6.5%",
+      "npv_cr": 512,
+      "dscr": "12.0x",
+      "payback_years": 5.0
+    },
+    "quick_scenario_analysis_options": [
+      "base",
+      "conservative",
+      "optimistic",
+      "stress"
+    ]
+  },
+  "market_context_for_dashboard": {
+    "india_storage_target_2030_gw": 60,
+    "current_psh_capacity_gw": 4.75,
+    "psh_pipeline_2032_gw": 50,
+    "policy_support": "Strong"
+  },
+  "policy_incentives": {
+    "source": "IIEPP 2022 and national renewable targets",
+    "incentives_list": [
+      {
+        "name": "30% Capital Subsidy",
+        "value_cr": "~₹2,212",
+        "description": "Government grant reducing upfront capital requirement"
+      },
+      {
+        "name": "Infrastructure Grant",
+        "value_cr_per_mw": 1,
+        "total_value_cr": "₹1,620",
+        "description": "₹1 Cr/MW from government schemes for large hydro projects"
+      },
+      {
+        "name": "ISTS Charge Waiver",
+        "value_percent": 100,
+        "description": "Complete waiver of inter-state transmission charges"
+      },
+      {
+        "name": "Stamp Duty Exemption",
+        "value": "Full",
+        "description": "Complete exemption on stamp duty for project assets in UP"
+      },
+      {
+        "name": "Carbon Credits",
+        "value": "Eligible",
+        "description": "Additional revenue from carbon credit markets"
+      },
+      {
+        "name": "State Support (Uttar Pradesh)",
+        "value_cr_per_year": 150,
+        "description": "Viability support from Uttar Pradesh government"
+      }
+    ],
+    "impact_of_incentives": {
+      "irr_without_incentives": "~12%",
+      "irr_with_government_support": "~17%",
+      "boost_in_irr_percent": "~5",
+      "description": "Government incentives effectively boost project IRR by ~5%, demonstrating strong policy backing for energy storage infrastructure."
+    }
+  },
+  "esg_compliance": "Closed-loop pumped storage system with minimal environmental impact and strong ESG credentials.",
+  "project_timeline": "Comprehensive project timeline from MoU signing to commissioning. (Details not provided on page)",
+  "investment_structure": "Flexible equity participation options with 70:30 debt-to-equity structure.",
+  "faq_section": "Common questions about the Jhariya PSH project and investment opportunity. (Content not provided on page)",
+  "company_information": {
+    "name": "Jhariya PSH",
+    "description": "India's largest pumped storage hydro project delivering clean energy storage solutions."
+  },
+  "contact_us": {
+    "email": "investors@jhariyapsh.com",
+    "phone": "+91 11 4567 8900",
+    "address": "Sonbhadra District, Uttar Pradesh",
+    "inquiry_option": "Send Inquiry"
+  },
+  "navigation_structure": [
+    "Overview",
+    "Financials",
+    "Dashboard",
+    "Incentives",
+    "Technical",
+    "ESG",
+    "Timeline",
+    "Investment",
+    "FAQ",
+    "Contact",
+    "Investment Deck",
+    "Contact Team"
+  ],
+  "copyright_info": "© 2024 Jhariya Pumped Storage Hydro Project. All rights reserved."
+}
+```
